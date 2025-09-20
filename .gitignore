@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# YOLO / ML
+runs/
+weights/
+*.pt
+*.onnx
+*.log
+
+# Gradio / temp files
+*.tmp
